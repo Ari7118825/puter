@@ -6,7 +6,7 @@
 	url = https://github.com/MercuryWorkshop/twisp.git
 [submodule "submodules/epoxy-tls"]
 	path = submodules/epoxy-tls
-	url = https://ithub.com/MercuryWorkshop/epoxy-tls.git
+	url = https://github.com/MercuryWorkshop/epoxy-tls.git
 [submodule "submodules/wiki"]
 	path = submodules/wiki
 	url = https://github.com/HeyPuter/puter.wiki.git
